@@ -6,15 +6,16 @@ It was intended to also have a navigation bar that switches to a goose catalog i
 
 https://github.com/user-attachments/assets/674dcd72-4152-4e91-a093-fe44f5ae052a
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Features
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Tech Stack
 - React
 - Vite
 - Mui (Material UI) components
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
