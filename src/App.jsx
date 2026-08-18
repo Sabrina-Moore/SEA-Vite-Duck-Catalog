@@ -138,7 +138,7 @@ function App() {
           >
             {/*Populating DataCard with array*/}
           {filteredDucks.map((ducks, index) => ( 
-          <Grid size={2} key= {index} >
+          <Grid size={2} >
             <DataCard
             name={ducks.name}
             imageURL={ducks.imageURL} 
